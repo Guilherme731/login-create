@@ -22,7 +22,7 @@
                     <input type="submit" class="btn" name="submit" value="Login" required>
                 </div>
                 <div class="links">
-                    Não possui uma conta? <a href="register.html">Crie uma.</a>
+                    Não possui uma conta? <a href="register.php">Crie uma.</a>
                 </div>
             </form>
         </div>

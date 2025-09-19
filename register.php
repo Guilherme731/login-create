@@ -34,7 +34,7 @@
                     <input type="submit" class="btn" name="submit" value="Register" required>
                 </div>
                 <div class="links">
-                    Já tem uma conta? <a href="index.html">Faça login.</a>
+                    Já tem uma conta? <a href="index.php">Faça login.</a>
                 </div>
             </form>
         </div>
