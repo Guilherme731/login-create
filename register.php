@@ -58,7 +58,7 @@
 
                 <div class="field">
                     
-                    <input type="submit" class="btn" name="submit" value="Register" required>
+                    <input type="submit" class="btn" name="submit" value="Registrar" required>
                 </div>
                 <div class="links">
                     Já tem uma conta? <a href="index.php">Faça login.</a>
