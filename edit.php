@@ -15,7 +15,7 @@
 
         <div class="right-links">
             <a href="#">Editar Perfil</a>
-            <a href="logout.php"> <button class="btn">Sair</button> </a>
+            <a href="php/logout.php"> <button class="btn">Sair</button> </a>
         </div>
     </div>
     <div class="container">

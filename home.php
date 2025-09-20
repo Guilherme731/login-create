@@ -39,7 +39,7 @@
             echo "<a href='edit.php?Id=$res_id'>Editar Perfil</a>";
             ?>
 
-            <a href="logout.php"> <button class="btn">Sair</button> </a>
+            <a href="php/logout.php"> <button class="btn">Sair</button> </a>
 
         </div>
     </div>
